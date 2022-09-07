@@ -1,0 +1,25 @@
+{
+  "name": "react_docker",
+  "version": "1.0.0",
+  "description": "Create game",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josebayo/React_Docker.git"
+  },
+  "author": "bayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josebayo/React_Docker/issues"
+  },
+  "homepage": "https://github.com/josebayo/React_Docker#readme"
+}
